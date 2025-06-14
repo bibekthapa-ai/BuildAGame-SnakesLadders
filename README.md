@@ -5,7 +5,6 @@ A modern and polished implementation of the classic Snakes and Ladders board gam
 ## Features
 
 - 10x10 grid board (100 squares) with alternating colors for a checkerboard effect
-- Snakes represented with billionaire faces (Elon Musk, Jeff Bezos, etc.)
 - Clean and vibrant UI with dark mode theme
 - Human vs AI gameplay
 - Animated dice roll with visual effects and smooth transitions
