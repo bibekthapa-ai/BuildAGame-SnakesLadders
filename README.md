@@ -1,4 +1,4 @@
-# Modern Snakes and Ladders
+# BuildAGame-SnakesLadders
 
 A modern and polished implementation of the classic Snakes and Ladders board game using Python and Pygame.
 
@@ -18,8 +18,8 @@ A modern and polished implementation of the classic Snakes and Ladders board gam
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/modern-snakes-and-ladders.git
-   cd modern-snakes-and-ladders
+   git clone https://github.com/bibekthapa-ai/BuildAGame-SnakesLadders.git
+   cd BuildAGame-SnakesLadders
    ```
 
 2. Install the required dependencies:
